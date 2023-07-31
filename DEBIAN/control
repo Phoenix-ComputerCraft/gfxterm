@@ -1,0 +1,9 @@
+Package: gfxterm
+Version: 0.0.1-1
+Section: kernel
+Priority: optional
+Architecture: phoenix
+Depends: phoenix
+Maintainer: JackMacWindows <jackmacwindowslinux@gmail.com>
+Description: Graphics mode terminal driver
+ A kernel module implementing a graphics-mode terminal.
